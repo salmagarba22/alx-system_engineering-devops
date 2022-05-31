@@ -1,0 +1,1 @@
+per1 -lne print if $. 5 2 == 1
